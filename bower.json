@@ -1,0 +1,13 @@
+{
+    "name": "beachpark-vaikuntudo",
+    "private": true,
+    "dependencies": {
+        "modernizr": "~2.6.2",
+        "jquery": "~1.9.0",
+        "normalize.scss": "3.0.0-alpha.2+normalize.3.0.0",
+        "greensock": "~1.16.1",
+        "bootstrap-sass": "~3.3.5",
+        "owl-carousel2": "latest",
+        "animate.css": "~3.4.0"
+    }
+}

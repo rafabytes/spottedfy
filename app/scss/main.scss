@@ -1,0 +1,21 @@
+// bower:scss
+@import "../../bower_components/normalize.scss/_normalize.scss";
+@import "../../bower_components/bootstrap-sass/assets/stylesheets/_bootstrap.scss";
+// endbower
+
+@import "compass";
+@import "compass/css3";
+@import "rgbapng";
+@import "breakpoint";
+
+//Mixins e animações
+@import "biblioteca";
+
+//Elementos comuns
+@import "fonts";
+@import "geral";
+@import "header";
+@import "footer";
+
+//Elementos únicos
+@import "home";

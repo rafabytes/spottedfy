@@ -1,0 +1,11 @@
+//$fonts :  font_sample;
+//@each $font in $fonts{
+//    @include font-face($font, font-files( '#{$font}.woff' , '#{$font}.ttf' ) , '#{$font}.eot', true);
+//}
+//
+//body
+//{
+//    font-family: 'font_sample';
+//    font-weight: normal;
+//    font-style: normal;
+//}
